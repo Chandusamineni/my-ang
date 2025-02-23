@@ -1,0 +1,33 @@
+[
+    {
+      "Id": 1,
+      "Type": "House",
+      "Name": "Birla House",
+      "Price": 1000
+    },
+    {
+      "Id": 2,
+      "Type": "House1",
+      "Name": "Birla House",
+      "Price": 1000
+    },
+    {
+      "Id": 3,
+      "Type": "House3",
+      "Name": "Birla House",
+      "Price": 1000
+    },
+    {
+      "Id": 4,
+      "Type": "House4",
+      "Name": "Birla House",
+      "Price": 1000
+    },
+    {
+      "Id": 5,
+      "Type": "House",
+      "Name": "Birla House",
+      "Price": 1000
+    }
+
+  ]
