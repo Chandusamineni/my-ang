@@ -2,8 +2,8 @@ import { Component, Inject, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PropertyCardComponent } from '../property-card/property-card.component';
 import { HttpClient } from '@angular/common/http';
-import { HousingService } from '../services/housing.service';
-import { IProperty } from './IProperty.interface';
+import { HousingService } from '../../services/housing.service';
+import { IProperty } from '../IProperty.interface';
 import { Observable } from 'rxjs';
 
 
